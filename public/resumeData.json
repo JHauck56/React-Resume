@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Jesse Hauck",
+    "description": "Full Stack developer seeking opportunities to grow and develop my skillset with a growth oriented company.",
+    "image": "profilepic.jpg",
+    "bio": "I'm relatively new to coding but I'm always strving to improve my skill! My main interest is backend development although I sometimes do some frontend coding as well. I love probelm solving and being part of a team! ",
+    "contactmessage": "If you have any questions or would like to talk further feel free to send me message!",
+    "email": "jhauck56@gmail.com",
+    "phone": "330-780-3818",
+    "github": "https://github.com/JHauck56",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jesse-hauck-9272381a2/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/JHauck56",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Case Western University",
+        "degree": "Full Stack Web Development",
+        "graduated": "August 2020",
+        "description": "This was a 6 month coding bootcamp provided by Case Western. I learned full stack web development"
+      }
+    ],
+    "work": [
+      {
+        "company": "Kent State University Hackathon",
+        "years": "September 2019",
+        "description": "My team created a mobile app that tracked a user's daily fitness goals. The user would put money on the line to motivate themselves to reach their goals. If they didn't achieve their fitness goals the money would be donated to a charity of their choosing. We used a combination of Node, JavaScript, React and babel."
+      },
+      {
+        "company": "Remote Work Experience",
+        "years": "February 2020 - August 2020",
+        "description": "I did the majority of the 6 month bootcamp entirely online."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTLM5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "jQuery",
+        "level": "65%"
+      },
+      {
+        "name": "Axios",
+        "level": "70%"
+      },
+      {
+        "name": "AJAX",
+        "level": "70%"
+      },
+      {
+        "name": "Node",
+        "level": "75%"
+      },
+      {
+        "name": "React",
+        "level": "60%"
+      },
+      {
+        "name": "Express",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Sequelize",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coding Quiz",
+        "category": "A timed coding quiz challenge",
+        "image": "codingQuiz.jpg",
+        "url": "https://jhauck56.github.io/CodingQuiz/"
+      },
+      {
+        "title": "Password Generator",
+        "category": "A simple app the outputs a random password based on user inputs",
+        "image": "passwordGenerator.jpg",
+        "url": "https://jhauck56.github.io/PasswordGenerator/"
+      },
+      {
+        "title": "EVENT5 NOW",
+        "category": "An app that grabs the current 5 day forecast and then recommends events to go to in your area",
+        "image": "event5Now.jpg",
+        "url": "https://squarecylinder.github.io/projectOne/"
+      },
+      {
+        "title": "Work Day Scheduler",
+        "category": "Simple scheduling app",
+        "image": "scheduler.jpg",
+        "url": "https://jhauck56.github.io/WorkDayScheduler/"
+      },
+      {
+        "title": "Employee Summary",
+        "category": "A command line application",
+        "image": "employeeSummary.gif",
+        "url": "https://github.com/JHauck56/EmployeeSummary"
+      },
+      {
+        "title": "Eat Da Burger",
+        "category": "Adding and Deleting from a database",
+        "image": "burger.jpg",
+        "url": "https://burger-homework123.herokuapp.com/burgers"
+      },
+      {
+        "title": "Movie Clubs",
+        "category": "Schedule Movies to watch with your friends!",
+        "image": "movieClub.jpg",
+        "url": "https://movieclubs.herokuapp.com/"
+      }
+    ]
+  }
+}
