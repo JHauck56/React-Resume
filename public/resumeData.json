@@ -146,6 +146,12 @@
         "category": "Schedule Movies to watch with your friends!",
         "image": "movieClub.jpg",
         "url": "https://movieclubs.herokuapp.com/"
+      },
+      {
+        "title": "Corona No Lines",
+        "category": "A way for businesses to inform customers of their Covid-19 policies.",
+        "image": "coronaNoLines.jpg",
+        "url": "https://coronanolines.herokuapp.com/"
       }
     ]
   }
