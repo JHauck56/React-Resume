@@ -3,7 +3,7 @@
     "name": "Jesse Hauck",
     "description": "Full Stack developer seeking opportunities to grow and develop my skillset with a growth oriented company.",
     "image": "profilepic.jpg",
-    "bio": "I'm relatively new to coding but I'm always strving to improve my skill! My main interest is backend development although I sometimes do some frontend coding as well. I love probelm solving and being part of a team! ",
+    "bio": "Full Stack Web Developer with a passion for problem solving and creating apps that make life a little easier. I'm a fast learner and work well with a team. I've recently completed a coding bootcamp at Case Western Reserve University. In that bootcamp I've done 3 full scale projects. I'm constantly expanding upon my skillset to keep up with this ever changing industry.",
     "contactmessage": "If you have any questions or would like to talk further feel free to send me message!",
     "email": "jhauck56@gmail.com",
     "phone": "330-780-3818",
@@ -14,6 +14,7 @@
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
+    "resumedownload":"ResumeJesseHauck.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -33,25 +34,19 @@
         "school": "Case Western University",
         "degree": "Full Stack Web Development",
         "graduated": "August 2020",
-        "description": "This was a 6 month coding bootcamp provided by Case Western. I learned full stack web development"
+        "description": "A 24-week intensive program focused on gaining skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS."
       }
     ],
     "work": [
       {
         "company": "Kent State University Hackathon",
         "years": "September 2019",
-        "description": "My team created a mobile app that tracked a user's daily fitness goals. The user would put money on the line to motivate themselves to reach their goals. If they didn't achieve their fitness goals the money would be donated to a charity of their choosing. We used a combination of Node, JavaScript, React and babel."
-      },
-      {
-        "company": "Remote Work Experience",
-        "years": "February 2020 - August 2020",
-        "description": "I did the majority of the 6 month bootcamp entirely online."
+        "description": "Created a mobile app in 48 hours that helped people who have a hard time finding motivation for working out. The user would enter a dollar amount and if they didn’t meet their fitness goal the money would be donated to a charity of their choosing. Used JavaScript, Babel, Node.js"
       }
     ],
     "skills": [
       {
-        "name": "HTML5",
-        "level": "90%"
+        "name": "HTML5"
       },
       {
         "name": "CSS",
